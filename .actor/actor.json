@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Myfreecams Downloader is a powerful tool that helps you download content from Myfreecams instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "myfreecams-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Myfreecams Downloader",
+  "version": "0.0"
+}
