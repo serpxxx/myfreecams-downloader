@@ -1,6 +1,10 @@
-# MyFreeCams Downloader (Browser Extension)
+# Myfreecams Video Downloader | How to Download Myfreecams Videos
 
 > Record MyFreeCams live streams and download supported recordings as MP4 files for offline viewing.
+
+## Get it Here
+
+Get it here: https://serp.ly/myfreecams-downloader
 
 ![Myfreecams Downloader](https://raw.githubusercontent.com/serpxxx/myfreecams-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ MyFreeCams Downloader is a browser extension for users who want to save supporte
 - Choose from the stream qualities exposed on the page
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
-
-## Get it Here
-
-Get it here: https://serp.ly/myfreecams-downloader
-
 ## Table of Contents
 
 - [Why MyFreeCams Downloader](#why-myfreecams-downloader)
